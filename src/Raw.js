@@ -29,13 +29,19 @@ export default class Row extends Component {
         this.handleAnimationStart = this.handleAnimationStart.bind(this);
         this.renderFrontface = this.renderFrontface.bind(this);
         this.renderBackface = this.renderBackface.bind(this);
+
+        setTimeout(() => {
+            this.flip();
+        }, 300)
     }
+
 
     flip() {
         this.setState({
             expanded: !this.state.expanded,
         });
     }
+
 
     handleAnimationStart(duration, height) {
         const isExpanding = this.state.expanded;

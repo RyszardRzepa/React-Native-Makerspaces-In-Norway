@@ -33,7 +33,7 @@ export default () => (
         <ScrollView
             style={styles.scrollView}
         >
-            <Row zIndex={70} />
+            <Row  />
         </ScrollView>
     </View>
 );

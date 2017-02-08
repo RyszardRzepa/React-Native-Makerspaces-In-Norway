@@ -46,7 +46,7 @@ export default class Row extends Component {
                     renderFrontface={this.renderBlankFace}
                     renderBackface={this.renderInnerBackFace}
                 >
-                    <AdditionalInfoCard onPress={onPress} />
+                    <AdditionalInfoCard onPress={onPress}/>
                 </FoldView>
 
             </View>
@@ -58,12 +58,12 @@ export default class Row extends Component {
         return (
             <View
                 style={{
-          backgroundColor: '#fff',
-          flex: 1,
-          borderTopWidth: StyleSheet.hairlineWidth,
-          borderTopColor: '#BDC2C9',
-          borderBottomLeftRadius: 2,
-          borderBottomRightRadius: 2,
+              backgroundColor: '#fff',
+              flex: 1,
+              borderTopWidth: StyleSheet.hairlineWidth,
+              borderTopColor: '#BDC2C9',
+              borderBottomLeftRadius: 2,
+              borderBottomRightRadius: 2,
         }}
             >
                 <View
@@ -104,7 +104,7 @@ export default class Row extends Component {
         }}
             >
 
-                <View style={{ flex: 1 }} >
+                <View style={{ flex: 1 }}>
 
                     <View
                         style={{
@@ -114,7 +114,7 @@ export default class Row extends Component {
             }}
                     >
 
-                        <ThinGrayLine width={120} />
+                        <ThinGrayLine width={120}/>
 
                         <View
                             style={{
@@ -142,8 +142,8 @@ export default class Row extends Component {
                   flexDirection: 'column',
                 }}
                             >
-                                <ThickDarkGrayLine width={200} />
-                                <ThinGrayLine width={120} />
+                                <ThickDarkGrayLine width={200}/>
+                                <ThinGrayLine width={120}/>
                             </View>
 
                         </View>
@@ -156,7 +156,7 @@ export default class Row extends Component {
                             renderFrontface={this.renderBlankFace}
                             renderBackface={this.renderBackface}
                         >
-                            <ProfileDetailCard onPress={onPress} />
+                            <ProfileDetailCard onPress={onPress}/>
                         </FoldView>
 
                     </View>

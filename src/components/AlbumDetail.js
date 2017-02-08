@@ -11,6 +11,7 @@ class AlbumDetail extends Component {
         Actions.details({ makerspaces: this.props.makerspace.properties });
     }
 
+
     render() {
         const {Name, description, mainImg, logo} = this.props.makerspace.properties;
         const {
