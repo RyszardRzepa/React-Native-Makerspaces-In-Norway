@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                                                                  
+"features": [
+{ "type": "Feature", "properties": { "Name": "HaugaMakers", "description": "http:\/\/haugamakers.no\/", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 5.267986899999983, 59.413581, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Deichmanske bibliotek, Gamle Oslo", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 10.775748, 59.914248, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "HOOS Collective", "description": "http:\/\/hooscollective.no\/", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 10.751844600000027, 59.9178621, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Deichmanske bibliotek Lambertseter", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 10.811374, 59.874278, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Kjøllefjord", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 27.346323, 70.9457401, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Nordmøre Makers", "description": "Kontaktperson: Kaare Jensen<br>Epost adr: kaare@nordmoremakers.no", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 7.728079, 63.110334599999987, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Holmestrand makerspace", "description": "Siv Elise Karlsen<br>tlf 4727 2440", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 10.316183599999931, 59.4883303, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Mosjøen makerspace", "description": "Andreas Steffensen andreas.marius.steffensen@gmail.com", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 13.193401, 65.836924, 0.0 ] } }
+]
+}

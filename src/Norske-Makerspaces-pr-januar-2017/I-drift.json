@@ -1,0 +1,1015 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mainImg": "https://bitraf.no/images/ploensgt.jpg",
+        "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcHcgZS-4Zvjg6ocpipF-WchnkUSekTEy01Z3E2wd2bj9Fazz3YQ",
+        "Name": "Bitraf",
+        "description": "Besøksadresse: Pløens Gate 4, 0181 Oslo",
+        "Kontaktperson": "Thomas Winther, tlf. 93675495, thomas@bitraf.no",
+        "Utstyr": "3d-printer, Laserkutter, CNC-fresemaskiner, Elektronikk-verksted, Dreiebenk, manuell fres, syrom, diverse småmaskiner",
+        "Åpningstidspunkt": "2012",
+        "Åpningstider": "Tilgjenglig 24\/7",
+        "Type": "Hobbyklubb\/forening\/medlemsbasert, Del av en kontorfellesskap, God miks av entusiaster og profesjonelle",
+        "medlemmer": "175\/1000+",
+        "kvadratmeter": "700",
+        "epostadresse": "post@bitraf.no",
+        "Nettside": "http:\/\/bitraf.no",
+        "Facebook": "https:\/\/www.facebook.com\/groups\/bitraf\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74896990000002,
+          59.9142727,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIIvHEj1FeXoxbYhZZWpMWB8cah-207S58yJYnbj0A9PpR8Fn0",
+        "mainImg": "https://i2.wp.com/hackbergen.no/wp-content/uploads/2013/09/Lodding.jpg?resize=1024%2C768",
+        "Name": "HackBergen",
+        "description": "Besøksadresse: Strømgaten 6, 5015 Bergen",
+        "Kontaktperson": "Trygve Trohaug, tlf 98441518, trygve.trohaug@gmail.com",
+        "Utstyr": "3d-printer, Vinylskjærer, Elektronikk-verksted",
+        "Åpningstidspunkt": "2010",
+        "Åpningstider": "Åpent noen timer hver dag",
+        "Type": "Hobbyklubb\/forening\/medlemsbasert",
+        "medlemmer": "15",
+        "kvadratmeter": "40",
+        "epostadresse": "hackbergen@googlegroups.com",
+        "Nettside": "http:\/\/hackbergen.no\/",
+        "Facebook": "https:\/\/www.facebook.com\/HackBergen-159016277449571",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3316715,
+          60.3898799,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mainImg": "https://hackerspace.idi.ntnu.no/media/images/kunstneriske_hackerspace.jpg",
+        "logo": "data:image/png;base64,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",
+        "Name": "Hackespace NTNU, Norges teknisk-naturvitenskapelige universitet (NTNU)",
+        "description": "Besøksadresse: Sem Sælands vei 9, 7491 Trondheim",
+        "Kontaktperson": "hackerspace-styret@idi.ntnu.no",
+        "Utstyr": "3d-printer, Oculus Rift",
+        "Åpningstidspunkt": "2014",
+        "Åpningstider": "Noen dager i uka, men jobber med utvidelse",
+        "Type": "Del av en offentlig institusjon",
+        "epostadresse": "hackerspace-styret@idi.ntnu.no",
+        "Nettside": "http:\/\/hackerspace-ntnu.no\/",
+        "Facebook": "https:\/\/www.facebook.com\/hackerspacentnu\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.404324,
+          63.417465,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fellesverkstedet (FABLAB)",
+        "logo": "",
+        "mainImg": "",
+        "description": "Besøksadresse: Urtegata 11, 0187 Oslo",
+         "Kontaktperson": "Graham Hayward, tlf. 93805581, graham@fellesverkstedet.no",
+         "Utstyr": "Laserkutter, CNC-fresemaskiner, treverkstedet, trykkverksted, støpeverksted, storskala montering, diverse mobile og midlertidig fasiliteter.",
+         "Åpningstidspunkt": "2011",
+         "kvadratmeter": "800",
+         "medlemmer": "123\/322",
+         "epostadresse": "info@fellesverkstedet.no",
+         "Nettside": "",
+         "Facebook": "https:\/\/facebook.com\/fellesverkstedet",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.76389,
+          59.914973,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stavanger Makerspace",
+        "description": "Kontaktperson: Fredrik Sudmann, tlf. 92603798, epost: fsudmann@gmail.com<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, Elektronikk-verksted<br><br>Åpningstidspunkt: 2011<br>Åpningstider: Åpent noen timer i uka<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall medlemmer\/brukere: 200\/400-500<br>Antall kvadratmeter: 50<br><br>Nettside: http:\/\/www.meetup.com\/Stavanger-Makerspace\/<br>Facebook: https:\/\/www.facebook.com\/stavangermakerspace?fref=ts",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731259,
+          58.851261,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Omega Verksted",
+        "description": "Besøksadresse: O.S. Bragstads plass 2 7034 Trondheim<br>Kontaktperson: Øystein Smith, werchsmeister@omegav.no<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, elektronikk-verksted<br><br>Åpningstidspunkt: 1971<br>Åpningstider: Ingen fast åpningstid men i snitt > 14 timer i døgnet<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall medlemmer\/brukere: 1500\/500<br>Antall kvadratmeter: 50<br><br>Offisiell epostadresse: omegav@omegav.no<br>Nettside: http:\/\/omegav.no\/<br>Facebook: https:\/\/www.facebook.com\/omegaverksted",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.400208600000042,
+          63.4186723,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "#VerkstedetBergen, Bergen Offentlige Bibliotek",
+        "description": "<img src=\"https:\/\/lh4.googleusercontent.com\/proxy\/7qtKOwXNeJBp0uLxAGkehxMAAYlb9NXgZFkgx4-p73ai2lirl4hAFyus9E22q9xeYH6bcKIotNxX-QQS4GU2kY5_i4OSsJZ3WJlQRQlBvy_sFY1wbStXsOqSdHIZ1pWlUbVd8sYnSy__QPKxFQ9L2tAyqn0NbijkXfC9p3FQz37TN80r8RfWms3YyA1RSm6Sfs9nP5WJmz_pcl3EbgD9q9WO0h2bptWMADzYAWWUdnllp96y-FKbi6zBfCTf7Gy4eGfkav80JMPLIPmIkGLhBUj_igVt-ccl_8dOQpBH1GQiOxe754puco6XrJUngKl2oB2_A3C588IjuVbuCACDJdJdLEM3FYXPVvVNtFvfFWfYk7TQ9oRi4PY\" height=\"200\" width=\"auto\" \/><br><br>Besøksadresse: Strømgt. 6, 5015 Bergen<br>Kontaktperson: Håvard Legreid, tlf 55568464, havard@bergenbibliotek.no<br><br>Utstyr: 3d-printer, Vinylskjærer, Elektronikk-verksted<br><br>Åpningstidspunkt: 2014<br>Åpningstider: Åpent innenfor bibliotekets åpningstid<br>Type: Hobbyklubb\/forening\/medlemsbasert, Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 100\/ikke kartlagt<br>Antall kvadratmeter: 20<br><br>Offisiell epostadresse: verkstedet@bergenbibliotek.no<br>Nettside: http:\/\/bergenbibliotek.no\/verkstedet<br>Facebook:www.facebook.com\/groups\/verkstedetbergen<br><br><img src=\"https:\/\/lh5.googleusercontent.com\/proxy\/Ba_n3LUPIEQVNOcK85hAfliqQU4TkzICXzBHR0GckNrgAHoCpvwhFZ_D8ArUIvXvckbO-_iJ6p2Hx92POBya1nQy9_f7yUFiu5D6H0MOmzOWSMP-Ho01V8hZIc150pkTQNNRzhJGM4LzIE_B6bSpAegU2HHPG3DAPGVHhuu4P1OrFXP7RpJ9j1xI4g2Rst09PX4qsV9TnsJSHe6xQDXVl-zmOVy9PZwAgZl1Zlu4gVP0GbQOhVCXasodwKZJy52FTASbn2RIw7b88NHqOsdb8qN-hKXsH0VfrvxMmA2RGB_mfUW9-LxLBYLVR5emdKTbrsrb2LnE3fn8_ii19K-nNejY2h3tHzuT7y3ElY-fEMwbFgIcH1uhFlslIg\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh6.googleusercontent.com\/proxy\/x3QyQdfaUTkrO0J4U2FIK33PBEG7EwLV68E7KTUWxGQohHLb7LbB1taPwTBQqx2B3cSEA9yomq68x_iAQLsSReqkBsblsu8Wak4TuBH5gy3qZ9v45uRkV3EK6oQx5pwIWwH989u7xRvOzO8D7Ud3ojCJS7xXuKvhEcHuyTEkyDr0YJ0UorDj65qVsxUmyqm-nf2zQOoIHDwOEmy9BkxxdUFdXzbUluJgEtKOX410otugBgBdSeDd3vAem3NOBKcI3lSH1ZiVGYMZv-U3PoFKTPsGcYO60YYlDiIwtF8GKuzvI9CNV1PCEpaCM_n9yxiVVYQFRoDNT1j4tIuf0IwXXNu7W0XwKGn0d5Q3eapUXwlYd17yXQhr9o0WUEYmERrk7ac4aWloYyVskn0k6d6BFpOutw\" height=\"200\" width=\"auto\" \/>",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.331695,
+          60.38987,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Åpen sone for eksperimentell informatikk, Institutt for informatikk, Universitetet i Oslo",
+        "description": "<img src=\"https:\/\/lh3.googleusercontent.com\/proxy\/Se-lxKjwHKhFtbVNGHbWkTCyQvo3DFHzhbozvnUTueyhbjEHBlCuU5IgLYfwRnJiqosYe7r7JnyiicF3_SzejSZZvRhb5Xfck8i3a7h-V7SL8npg8yIxUII0_-4A__fzM479z1M-wv0tdJ4jyozST7224Rx3yR0Mqm1cGzHK9etWXWdlmJfOFdAUHuvmUjOnbUQN531G3Ak8WFckdD6Cjusx4YDN1wLnajrd6vOYJdy1Gbb3-W8rwrix1XpZZMtpW4FqZmoEvsqVW9VcMaMXznNcwBA5zTE5OgEwshicCaUrSoLE72c6FVvq9wx5BNVqQ1iVe76pSYOr68WGuKUNGcr8YK3rPM_uI32U9u2xvLfS65A3vMH5RJQ\" height=\"200\" width=\"auto\" \/><br><br>Besøksadresse: Ole-Johan Dahls hus, Gaustadalléen 23B, 0316 Oslo<br>Kontaktperson: Roger Antonsen, tlf. 97588742, rantonse@ifi.uio.no<br><br>Utstyr: 3d-printer, Laserkutter, CNC-fresemaskiner, Elektronikk-verksted, Symaskiner\/broderingsmaskiner<br><br>Åpningstidspunkt: 2011<br>Åpningstider: I bygningens åpningstider, 09–18 hver dag.<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 1000<br>Antall kvadratmeter: ca. 100<br><br>Offisiell epostadresse: ifi-sonen@ifi.uio.no<br>Nettside: http:\/\/sonen.ifi.uio.no\/<br>Facebook: https:\/\/www.facebook.com\/ifisonen\/<br><br><img src=\"https:\/\/lh4.googleusercontent.com\/proxy\/VhC0YFYF1IHlyzxS1wlnsbRlzjJ4IBY2LG9Z2xatR8FQBewvwuJ-qGg6LffhYzAUY3LPeVfFibEJ2Wf3S8Fb6mXTUzR0AGU58_wQqW3Vl5TorteQoCfpI87DKNVrHhMegGZrspvo4LmI0xfIi2aZKWlk9pRf2QLzjurv2j62gm_GhEgsfbwCPrQluHRE56MnjOqbpjTDvHhgvM1vgO-tSwlXH_V9cHh7mExO2r0zyU1EMQEDrnJ8rNb6FYH28dLXSjdF8UDblal7cu7vZjS-JvtW1C7fGX3UYzPhcQuAy52ZYcigotD3PFka9qcxSbSN-chy6xFnm0YXsOkPr8xkiXLRJnsoZq88f58dg_n7m6vxsRo5ScJXMw\" height=\"200\" width=\"auto\" \/>",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.717887,
+          59.943305,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Form Makerspace, Flow Tromsø",
+        "description": "Besøksadresse: Storgata 5, 9008 Tromsø<br>Kontaktperson: Kristian O.Gundersen, tlf. 97166581\t<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, elektronikk-verksted<br><br>Åpningstidspunkt:<br>Åpningstider: Tilgjenglig 24\/7<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall medlemmer\/brukere: 10<br>Antall kvadratmeter: 100<br><br>Offisiell epostadresse: hello@formspace.no<br>Nettside: http:\/\/www.formspace.no\/<br>Facebook: www.facebook.com\/formspace",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.950174100000027,
+          69.6453979,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Teknoteket Makerspace, Oslo Vitensenter, Norsk Teknisk Museum",
+        "description": "<img src=\"https:\/\/lh4.googleusercontent.com\/proxy\/5fMflBTwbpumTAHq-EGjVfXQLxAumzRY09VUSgpvAwaJYwNKAHdkLYxZWvVy3hwSqnQCKUV1bHXdX5X6ung1cvRxOIpTDIHJeySfupNVDaHbIMuCvddqedjlnqViTC23amli6GS6v7wnLQUldEvzl_5zMQI-T7iwU4SfMcKeu7tNg4ftOxXml-VGO-Lk6XRz52v8ZRig2LK17bSwfnvj8-Tb88aicUVRqe3Mcmn589Kl-5o7IZxhQG1w9RxtN3te6pHKPvibNm0qtTBAUZJ0Kv-pvcFEWunCGF6ExQdSp2pf674UIcveDqTggSQbeVln9MNZBBn-lP6xjfojY03bqCm2u9LhZoH5PMJyBV7Or0UQiusWwxIQRw\" height=\"200\" width=\"auto\" \/><br><br>Oslo Vitensenter, Norsk Teknisk Museum<br>Besøksadresse: Kjelsåsveien 143, 0491 Oslo<br>Kontaktperson: Jon Haavie, 93877763, jon@haavie.no<br><br>Utstyr: 3d-printer, Laserkutter, Vinylskjærer, Strikkemaskin, Elektronikk-verksted, EggBot, PancakeBot, littleBits, Strawbees, micro:bit<br><br>Åpningstider: Åpent noen timer hver dag.<br>Type: Del av en offentlig institusjon, Museum<br>Antall medlemmer\/brukere: 0\/10.000<br>Antall kvadratmeter: 150<br><br>Nettside: http:\/\/www.tekniskmuseum.no\/<br>Facebook: https:\/\/www.facebook.com\/Tekniskmuseum<br><br><img src=\"https:\/\/lh6.googleusercontent.com\/proxy\/CVyyf5d07Et3U76soEF67bPANmf1lQf1WUR_evQO0RXI3RFEVOWICq2ji1NyjTSZrwnh3c6jOdTOGSgmOPgeB6xLzuxgCUKKtfwSDVkkC9QmCxpiL5SKGgpk2sIO7-_-d2AF1j2rdx58nPNecZLAzvPS1XRbjON95CQbV71mVsWSorxOKpQvqXq0GQ4Xdyi5QhwAMrGE_Y5cda-O7LTiVHjHjH2yUW_HQOSt-wHbtFPLcvcwNp171HNDYB2pzZlWDmTvyTif15sAc1kpqqSnh6f0f3TUSzmOjOJiqA81OmRLKBVXHxE230nL8JumsWj1IriN9oYRNt5LRcSx-HA9-pa3VVSZD6Hlv_-nBLk2Om8LKkp0Mmvasg\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh6.googleusercontent.com\/proxy\/l-2y5ho_QYs-cepFI9453gEgxz6w9EeMqz6fjwol8AQ6nZb-_Ah48G1dLHFrtG9fMSoZqEp4idMey9VLQCMQYl3eskv3h4EfJEshCOM9Frxp8foT2u3QaFtUbrdke2WJOUEq0rY0e-dcUaEa23VHZfVzExw9aweZXWy2Oo29vnsv1i-aXRDksj85IbzALtR5q0e3T1fvX2eMABFaJL0Fe2opWJFQ8avvpxsi7okUbBa9H94upMw5dxXNtaAxzrJ3XIzmgiTB717cJ8wlQcmke5AT-nObh9HpdA0koeWIQf26BpWnW2hMu-lz-rnfGhD05euc-w629v5R6bRF36uVmqMRjwHM3acLga9T8dsRSn69EOBV25X_Iw\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh6.googleusercontent.com\/proxy\/_CieJ2vL_9rqvWU816dcHoWocCxoaMsfI1fGKJxhIaod4Q3cw3Vihnl_94wEhzlrZvfUXhTYJ0QFLaSiiiBtRbRqOpnBDGY0FXBylJBM8iPi-tLl_sTCPVh-4ZaA-dj9xEMvhSjTPEYmuG7s5kPrESGYDmTt0SuZhgj6gSOLb56xU1FEtzzpX0IdiA6RO0Ik20yRlDloH7I7pL2uDPY-NGor4rny_5UVd7pWIIRDarGhUeK7jEKD7HQWaZzn9roZwYsl5zZzkhra2tBnZ1kzWwmmovpUJSotMfxLBuz2NWk6y5aM0dNxFKB6Niam6e_pWRygVZvZUj9LrEbXZVAMXqtX5w7pcBzoefyfgsY_tMcvSjUwkd6HXwxozoC2f4Ec34k\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh4.googleusercontent.com\/proxy\/0ilzUtvb58QHo__63R1ykfVsdx1IlMi8Cw0BJRwyQfbvTOgH2VEZ7_FenIlOjSA2ytNXIMFjwKAysm0j_v76_Tx2Z08UeQ4udk3_MDMnvCzL7R6VvmyykRBzocL0NzbCh7NQPGRio08GqyWQ5oiCaIHwYPVz_wl0f5ddORMTtMLFYJHOam1_SOe3oii6P5Opo5UJXt6U9qpvPx7DzAxv-oEM2KTmG-mBPye3Xw9SPDi-PsEavLOxnH3xTEtKEox6VEmzz9ii8wNnvuWeM0TLXFVCgr0ffZnn1iRKJlV3Sj5aWiFKfnpY2syuIXtxOZFg7QguR58PF4KlMXQtYM3Uv7K2keuTGjluavU0MWyNfLIwx8MK-SSvBMDHe20DKA\" height=\"200\" width=\"auto\" \/>",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.783378,
+          59.966936,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "VilLage, VilVite Vitensenter",
+        "description": "Kontaktperson: Torgeir Ekeland, 41588840, <br><br>Utstyr: 3d-printer, Laserkutter, Vinylskjærer, Elektronikk-verksted, Symaskiner\/broderingsmaskiner<br><br>Åpningstidspunkt: 2011<br>Åpningstider: Åpent ved bestilling<br>Antall medlemmer\/brukere: <br>Antall kvadratmeter tilgjenglig: 130<br><br>Nettside: www.vilvite.no<br>Facebook: www.facebook.com\/vilvite",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329154,
+          60.381281,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Folkeverkstedet, Trondheim folkebibliotek",
+        "description": "Besøksadresse: Peter Egges plass 1, 7004 Trondheim<br>Kontaktperson: Arild Sørheim\t, tlf 91546931, epost: arild.sorheim@trondheim.kommune.no<br><br>Utstyr: 3d-printer, elektronikk-verksted<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Åpent noen timer i uka<br>Type: Del av en offentlig institusjon<br>Antall kvadratmeter: 50<br><br>Nettside: http:\/\/www.tfb.no<br>Facebook: https:\/\/www.facebook.com\/trondheimfolkebibliotek",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.401108,
+          63.430655,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "HiØ Makerspace, Høgskolen i Østfold",
+        "description": "Besøksadresse: B.R.A. veien 4, 1783 Halden<br>Kontaktperson: Geir Kramviken Strøm, 69215373, geir.k.strom@hiof.no<br><br>Utstyr: 3d-printer, Elektronikk-verksted<br><br>Åpningstidspunkt: 2014<br>Åpningstider: Tilgjenglig 24\/7<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 130<br>Antall kvadratmeter: 40<br><br>Offisiell epostadresse: makerspace@hiof.no<br>Nettside: http:\/\/makerspace.hiof.no<br>Facebook: https:\/\/www.facebook.com\/groups\/1479096049006392\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3528033,
+          59.1292475,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Folkeverkstedet, Deichmanske bibliotek",
+        "description": "<img src=\"https:\/\/lh3.googleusercontent.com\/proxy\/WTxFbkZEXrhnwE0bGBYUODDoPXqAeC6MrnnyJPNTQu68rg9u4hehLrdHUQrrAbiJ4yvMGyRwgmBnbtQU0D17cHF_jQ4vUB09uMunKSUKt3QQoIRJJ9P_7YVpa6BWHiwQCuKJmkGZXXUUoYup_s2qImIV5kOeIRGqCLNsQd3emKalNaqQUvx7b0G74aZ1gjhqYuudZHWHxyr_hcplg_k299ON9L_ZXntyHWefOg7dBqxU27uHk1S95qdFrDtIgR6sPjH02XgTdX7MNoXjxNXioyBDhQZD_NIxgyIiCcQgDx6oJgv2kumV0TfNIq_h0sV2VaiT2hymcOdt-sYXzuDWeYvZCQhr5JF6Wua3un7biwscd85kZKsEww\" height=\"200\" width=\"auto\" \/><br><br>Besøksadresse: Arne Garborgs plass 4, 0179 Oslo<br>Kontaktperson: Magnus Klafstad \/ Kaia Nielsen Kjøs, tlf 41474208 \/ tlf 97785649\t<br>magnus.klafstad@kul.oslo.kommune.no \/ kaianielsen.kjos@kul.oslo.kommune.no<br><br>Utstyr: 3d-printer, Elektronikk-verksted<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Åpent noen timer hver dag<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: <br>Antall kvadratmeter: 50<br><br>Offisiell epostadresse: folkeverkstedet@kul.oslo.kommune.no<br>Nettside: http:\/\/www.deichman.no\/folkeverkstedet<br>Facebook: https:\/\/www.facebook.com\/groups\/folkeverkstedet\/<br><br><img src=\"https:\/\/lh3.googleusercontent.com\/proxy\/T8HsyMM9qiDrS3Ll6711iRWODQPQStZvgyDK94LI2wjJA8Qx8Au1S_xgWi6Hc-BxqEnKsBDDj8ns9X5Rw7mM7uQb9GTQPv2iyVhH1Pv5nyAFr_zbQESDeONL0MPnk85n5YBfSYklVhqINCzZwrkqm3gngOejUJp6m0EwIdj6sb23lS7m5Jai2MTxzvmTE86nafVQ2KKY6I9vAScO23qoIvKRL6xPjb__k1ds9owoKksfNYvx6AcXCU_9PqKRQK0hZPC5i3wSp6JKTuRnqNaHcrCire_KvUqO9vXHleGjfgAPtuRub_IAxfJ2tHU3gRNdWS3iEZU8IcfdQeFg-WPGwNhgpHlJKFcVDUSGyvsWa1x5l-tmFY1KfeXG\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh5.googleusercontent.com\/proxy\/mvyfrovgAqzJMTzvQVt7JVHl1Yq16h231aevMrSAmEqR8vg5dJPd16xQeiSo7LgmlSLxntNMN2WXp7UcvgPEybG3TOnip38p97AbRBbrsfw80KZ2V4f4_OmaVICZpehkJwUCmZZoFbALe7oJ_6VXs65W3ho8ZmcUFZyKYSNY4mAP0h6iYWw2oMR5PsmNrhB1gVr66m6NhDOozdf7mbQ26BOFBG0_iKggGXMU3e51CGtTTQ8K86aiGOBNMRdAx8O23jk3gz9cY-kvcKpUL2ZHMnfZMfMX2poeW-H39EhwekdmQT82Efy65xZzD1q4Gt11QOcM_k7Im33Hu3E5KSKY-GjFTQLY0pkqNgT1oZVzVAtlvpxgecUOtA\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh3.googleusercontent.com\/proxy\/FlwQGvQWwFgLChDhJlfjXYozujAM0bdQKQSAinAyfGXchzZ4XNCPR06ItVdeFN908VgrGg7SXr4MRi5leIGiIRBTi6xS0MCDNG1sDbXsYGMdMNrySNQ2Art1h4JuSKElCTtIZOnMI9r1GVbeFXoiZKzvV-sYaRVNyUssOD06fjxn-M5_AK_MEe1MWOExMYvrP6N6uGxW5d-zfjoOgO6Qh4PjQWntbL46CYSZvoasz1mxtgtOcYBv9W-kJEwyECjko-MYVpjVJH3-cUVEotnlQD00vOwR9ZlcKe3oZ7lKYZDWeVZQy2VFwazJ_VzgthZXXO--ogG1NmPgLXgudJXlImJCRRhB3hj1TnbbkXRljhA2_sqqTM3Auw\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh3.googleusercontent.com\/proxy\/vw0JTRTPlDu5AOmTH1bCpGwOdE9Z3UmnQt1jEaqOn5fHjHRYPLurS1eZqFW81Nbrf-N-0RSP7RsIiox24Kl6HvQb0fFFJZqlJgj84-8FbpSABm2sAhbijWlh4rG9kJe4nPlPnmnuoO9O_Pgn-KHyF69OTaLQJr-1126fuPkJ0OyaQU23O1Y73l_w1pV2FgRf9hPzEaoae-Ru36cwe-9m3ntddMNAIMctvyc50_pg689YtLCBh-pekhdsNXHRd6gfYModvkrliYJ4zn9l7Pilwsep6iBXjJpmzMpuKPp-1jeIWghVhXQTPqJLov-pvbDBtjJiGwYo3oNZgnGCjWNVg7tFRt0vnVPTL5Jtnpp5WodbagzIHRh4cQ\" height=\"200\" width=\"auto\" \/>",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.746371400000044,
+          59.916556799999988,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hackheim, Work-work\n",
+        "description": "Besøksadresse: Munkegata 58, 7010 Trondheim<br>Kontaktperson: Nikolai Ovesen, 97730654, Nikolai.Ovesen@gmail.com<br><br>Utstyr: 3d-printer, elektronikk-verksted, symaskiner\/broderingsmaskiner<br><br>Åpningstidspunkt: 2012<br>Åpningstider: Tilgjenglig 24\/7<br>Type: Hobbyklubb\/forening\/medlemsbasert, Del av en kontorfellesskap<br>Antall medlemmer\/brukere: 28<br>Antall kvadratmeter: 70<br><br>Offisiell epostadresse: kjernen@hackheim.com<br>Nettside: http:\/\/hackheim.no\/<br>Facebook: https:\/\/www.facebook.com\/groups\/hackheim\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.393237499999941,
+          63.4328382,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Skills Makerspace , Nordnorsk vitensenter",
+        "description": "<img src=\"https:\/\/lh5.googleusercontent.com\/proxy\/1zBxigMlYchwS7HAxFgguRQ2GH0020FcZmXIEoC8pXQHQ7iocl1L87HqrZxuQVk3bwagLRxPftbGcXC6k-qjcD9ZywNvYQuTyZtm6Wwgo-V3hZwKPIEPkV1Hz9fpKxEU4OzGbbPriAdzjAOGQmMJ1UMnW1Jsz6d-iw_KWRVx9M1_CnUjlSD3LbSBAM4kMBzT49hR519rPO_TdzYAyt7q4VqKC7Ve4_wzW8i8DTy2D0J0KDDX9px9XxQXbBlAzfal4HPCeOL3MUXrA6_DPzAyP-O4UYOIehz4wQ8iHyxzPsyUAdszdizycncmKlkq4k8u7MopfFFFlScNdQTBrxaTD236LFho7BpfBm-q38F3bUedACkG16psMxs\" height=\"200\" width=\"auto\" \/><br><br>Besøksadresse: Hansine Hansens veg 17, 9019, Tromsø<br>Kontaktperson: Elisabeth Killie Kanebog, tlf. 77620945, epost: elisabeth@nordnorsk.vitensenter.no<br><br>Utstyr: 3d-printer, laserkutter, elektronikk-verksted, symaskiner\/broderingsmaskiner<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Åpent noen timer i uka<br>Type: del av et vitensenter, åpent for alle i form av workshops og åpent verksted.<br>Antall medlemmer\/brukere: <br>Antall kvadratmeter: 60<br><br><img src=\"https:\/\/lh3.googleusercontent.com\/proxy\/d08cWQ7vx7bJXvm3srKSejxo5Y8WIQHE5aKST9qQ4O8z02wichOHom-sZjWMcfxwmy2n7xHZZzjTtyYZ3Zzo8o58-r_yUCQl-IR5u8h5AvfRQpt7cb6-bZobmOCltJZiQ3if_KblQ_yX7IVVQLjXVWl8fCgzo3dT9CowJv5Ts2D4KLQ2BJR1GiG0JN5Rj2_-wtgogUXLiOYeUlmOsBYoAR0LoONk6ax4AyRrbAofa31jLi0axJvAz3rSXClOx1ry6XHPT2or-kcWtEh9rRgKcMxJUDP2CYZuiEGFSND0KY9oELh9HwB7lK9MZNu-J_lGiM_nf5daqeVm5LkN2Qeb0ywpDOfCPZQO1Ai2Nubv3JI6iXvzI5ZuAK9Blw\" height=\"200\" width=\"auto\" \/><br><br><img src=\"https:\/\/lh5.googleusercontent.com\/proxy\/O5zBg_C_mSeIDihqG0FWSFqDtYrkNhUc3QK972bDjZ06u8jibQ4-unRKm2mwqh-UiTgkzXjMCWZOZpochimqNphlgNT8cP8h2tZ35rLqsR0o7xmbTl22CNKKdjybtIDEkwYmvESsyNDYT9X1tfSol3SeOINCxXhlBCxPsEokIcpdsuMaNUANwzMAQy1rboSRuVwbNp0ps7JrYsIQxbwu51avOXFIHKOedIiTmH9MetbqASKWIzoFInCpderYd4d9VIVFrMVK_-w8CSR-JW4SaJgyUcNwZzj98nPVsWvrAuJ06IdttkNP_O1mWGek5gIafh41PzdeAiA4aJJbOitL9BswsC0I7IykYdT7-6W04ftp4uWf9hp_FHo\" height=\"200\" width=\"auto\" \/>",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.971675,
+          69.679085,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FABLAB Lyngen Forskningsstiftelse Mit",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.195446,
+          69.492079,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kodegenet AS",
+        "description": "Kodegenet<br>Besøksadresse: Munkerudtunet 10, 1164 Oslo<br>Kontaktperson: Joachim Haagen Skeie, jhs@kodegenet.no<br><br>Utstyr: 3d-printer, Laserkutter, Elektronikk-verksted<br>Åpningstider: Åpent noen timer hver dag.<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall medlemmer\/brukere: Ca. 20-30 barn og unge i uken<br>Antall kvadratmeter: 150<br>Åpnet: Sept. 2015<br><br>E-post: post@kodegenet.no<br>Nettside: https:\/\/kodegenet.no<br>Facebook: https:\/\/www.facebook.com\/kodegenet\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.812977,
+          59.859576,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hackeriet",
+        "description": "Besøksadresse: Hausmanns gate 34, 0182 Oslo.<br>Kontaktperson: Kacper Wysocki, styret@hackeriet.no<br><br>Utstyr: elektronikk-verksted, amatørradio-lab, symaskin, server-rom, scene.<br><br>Åpningstidspunkt: 2009<br>Åpningstider: Åpent for alle tirsdag kveld og lørdag kveld. Medlemmer har tilgang døgnet rundt.<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall medlemmer\/brukere (2015): 20\/100<br>Antall kvadratmeter: ca 120<br><br>Offisiell epostadresse: styret@hackeriet.no<br>Nettside: https:\/\/hackeriet.no<br>Facebook: https:\/\/www.facebook.com\/hackeriet<br><br>IRC: #oslohackerspace @ Freenode<br>Meetup: https:\/\/www.meetup.com\/hackeriet<br>Twitter: https:\/\/twitter.com\/hackeriet",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.751985200000036,
+          59.91914790000002,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sølvberget, Stavanger kulturhus",
+        "description": "Sølvberget Makerspace<br>Besøksadresse: Sølvberget, Stavanger bibliotek og kulturhus, Sølvberggata 2, 4002 Stavanger, Kjelleren, U1.<br>Kontaktperson: Kontaktperson: Rakel Lundervold<br>Tlf: 40108024<br>rakel.lundervold@stavanger-kulturhus.no<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, Elektronikk-verksted, Symaskiner\/broderingsmaskiner<br>Åpningstider: Åpent noen timer i uka<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 250 - 300<br>Antall kvadratmeter: 60<br>Åpnet: 2014<br><br>E-post: ungisentrum@gmail.com<br>Nettside: http:\/\/solvberget.no\/BARN-OG-UNGDOM\/Aktiviteter\/Ung-i-sentrum\/Skaperglede-paa-Soelvberget<br>Facebook: https:\/\/www.facebook.com\/solvberget\/?fref=ts",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.733656,
+          58.971467,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trigger Oppfinnerverksted, Vitensenteret i Trondheim",
+        "description": "Trigger er et oppfinnerverksted i Vitensenteret i Trondheim<br><br>Besøksadresse: Kongens Gate 1, 7011 Trondheim<br>Kontaktperson: Martin Kulhawczuk, tlf. 93807444,epost: martink@viten.ntnu.no<br><br>Utstyr: 3d-printer, laserkutter, elektronikk-verksted, symaskiner\/broderingsmaskiner, Festools<br><br>Åpningstidspunkt: Februar 2016<br>Åpningstider: Åpent noen timer i uka<br>Type: Hobbyklubb\/forening\/medlemsbasert, del av et Vitensenter<br>Antall kvadratmeter: 100 kvm<br><br>Offisiell epostadresse: trigger@vitensenteret.com<br>Nettside: http:\/\/trigger.vitensenteret.com\/<br><br>Trigger er i oppstartfasen. For at Trigger skal kunne bli mest mulig brukt er vi avhengig av frivillige som kan være med å drifte verkstedet på ettermiddagen. Har du lyst ta kontakt med martin@vitensenteret.com.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.400091,
+          63.430284,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Creator Makerspace",
+        "description": "Besøksadresse: Lagerveien 9, 4033 Stavanger<br>Kontaktperson: Sjur Usken, tlf. 96999902, sjur@usken.no<br><br>Utstyr: 3d-printer, laserkutter, vinylskjærer, CNC-fresemaskiner, elektronikk-verksted<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Tilgjenglig 24\/7<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall kvadratmeter: 300<br><br>Facebook: https:\/\/www.facebook.com\/creatormakerspace\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.703722800000038,
+          58.8966002,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Protomore, Molde Kunnskapspark. ",
+        "description": "Besøksadresse: Britvegen 4, Molde<br>Kontaktperson: Carl Christian Sole Semb, tlf. 97524353<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Åpent noen timer i uka<br>Type: Hobbyklubb\/forening\/medlemsbasert. Del av en kontorfellesskap<br>Antall kvadratmeter: 200<br><br>Web: http:\/\/protomore.mkp.no\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.105271500000072,
+          62.7365049,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MakerSpace på Skogmo",
+        "description": "Besøksadresse: Skogmo videregående skole, Avdeling Elektro - Dataelektronikk», \"Kjørbekkdalen 11, 3735 Skien<br>Kontaktperson: Geir Soland, tlf. 90885908, geir.soland@geso.no<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, Elektronikk-verksted, SMD lab Microprosessor Lab<br>Åpningstider: Åpent noen timer i uka<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 35\/27<br>Antall kvadratmeter: 250 kvm<br>Åpnet: Konstituert 26\/1-2016<br><br>Web: www.makerspaceskien.org<br>E-post: makerspace@geso.no",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.620804200000068,
+          59.1734193,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Teknologiskolen ved Vitenparken",
+        "description": "Teknologiskolen er et fritidstilbud til barn og ungdom som vil jobbe med teknologirelaterte prosjekter og realfag etter skoletid på Vitenparken i Ås.<br><br>Arrangerer teknologi-kurs for barn og ungdom. Teknologiskolen er underlagt Vitenparken på Ås. www.vitenparken.no<br><br>Besøksadresse: Fredrik A. Dahlsvei 8, 1430 Ås<br>Kontaktperson: Mattis Natvig Segerberg, tlf. 47807313, mattis.natvig@gmail.com<br><br>Utstyr: 3d-printer, Elektronikk-verksted, En hel haug med forskjellige byggesett<br><br>Åpningstidspunkt: Opprettet 2015. <br>Åpningstider: Åpent noen timer i uka<br>Type: Hobbyklubb\/forening\/medlemsbasert, del av et Vitensenter<br>Antall kvadratmeter: 100 kvm<br>Medlemmer\/brukere: 200<br><br>Nettside: http:\/\/vitenparken.no\/bli-med-pa-teknologiskolen\/<br>Facebook: https:\/\/www.facebook.com\/teknologiskolen\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.770141100000046,
+          59.6665317,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Harstad Makers (iQuben)",
+        "description": "Harstad Makers (iQuben)<br>Besøksadresse: Storgata 17, 9405 Harstad<br>Kontaktperson: Frode Eldevik, 41652457,frode@3dprint.no<br><br>Utstyr: 3d-printer, laserkutter, vinylskjærer, elektronikk-verksted, symaskiner\/broderingsmaskiner<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Tilgjenglig når brukere ønsker det<br>Type: Hobbyklubb\/forening\/medlemsbasert<br>Antall medlemmer\/brukere: 15...og stigende<br><br>Offisiell epostadresse: info@arcticmakers.com<br>Nettside: http:\/\/www.harstadmakers.com\/<br>Facebook:https:\/\/www.facebook.com\/HarstadMakerSpace",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.540892399999962,
+          68.7977832,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eik Ideverksted (NMBU)",
+        "description": "Den frivillige foreningen “Eik Idéverksted” jobber for å tilby nærmiljø og interesserte en rekke aktiviteter og prosjekter i sitt lokale ved Norges Miljø- og Biovitenskapelige universitet (NMBU) i Ås.<br><br>http:\/\/www.eikide.com\/<br><br>Facebook: https:\/\/www.facebook.com\/eikideverksted\/?fref=ts",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.77602,
+          59.6651478,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Drammen folkeverksted\nDrammen bibliotek (Drammen kommune)\n",
+        "description": "Besøksadresse: Laurits Grønlands vei 33, 3035 Drammen<br>Kontaktperson: Geirr Karlsen, tlf. 32045400, epost: Geirr.Karlsen@drmk.no<br><br>Utstyr: 3d-printer, Little bits, diverse musikkinstrumenter<br><br>Åpningstidspunkt: 2015<br>Åpningstider: Tilgjengelig i bibliotekets åpningstid<br>Type: Del av en offentlig institusjon, Bibliotek-makerspace<br>Antall kvadratmeter: 100<br><br>Offisiell epostadresse: bibliotek@drammen.kommune.no<br>Nettside: http:\/\/www.dbib.no\/<br>Facebook: https:\/\/www.facebook.com\/Drammensbiblioteket-108838790507\/timeline\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.224017099999969,
+          59.7185082,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FabLab NTNU - Ålesund",
+        "description": "Web pages: https:\/\/www.ntnu.edu\/fablab\/about<br>Contact person: Assoc. Prof. Henrique Gaspar. henrique.gaspar@ntnu.no Mob. 95469887 tlf. 70161247",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23571,
+          62.4721922,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kongsberg Vitensenter Devoteket",
+        "description": "Besøksadresse: Krona, Hasbergvei 40, 3616 Kongsberg<br>Kontaktperson: Bjørn Nordal, bjorn.nordal@kongsberg.kommune.no, 48166022<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, Elektronikk-verksted<br><br>Åpningstidspunkt: 2005<br>Åpningstider: Åpent noen timer i uka<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 1200<br>Antall kvadratmeter: 300<br><br>Offisiell epostadresse: devoteket@kongsberg.kommune.no<br>Nettside: http:\/\/www.kongsberg.kommune.no\/Tjenester\/Kultur\/Ungdomskontor\/Devo\/<br>Facebook: https:\/\/www.facebook.com\/kongsbergvitensenter\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.643633099999988,
+          59.6638001,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Verket FabLab",
+        "description": "Besøksadresse: Ibsensgate 4, Moss<br>Kontaktperson: Hanne Eriksen, tlf. 48191429, post@verketfablab.no<br><br>Utstyr: 3d-printer, Laserkutter, Vinylskjærer, CNC-fresemaskiner, Elektronikk-verksted, Symaskiner\/broderingsmaskiner<br>Åpningstider: Åpent noen timer hver dag.<br>Type: Medlemsbasert fellesverksted for skole, industri og Makers<br>Antall kvadratmeter: 250<br>Åpnet: Opprettet Feb 2015, åpnet 1 April<br><br>Nettside: https:\/\/www.verketfablab.no<br>Facebook: https:\/\/www.facebook.com\/verketfablab\/<br>Offisiell epostadresse: post@verketfablab.no",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.662878500000033,
+          59.4361042,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Makerspace Vitensenteret Sørlandet",
+        "description": "Besøksadresse: Kystveien 2, 4841 Arendal<br>Kontaktperson: Tor Inge Rasmussen, tlf. 91538010, epost: tir@vitensor.no<br><br>Utstyr: 3d-printer, laserkutter, elektronikk-verksted, 3D scanner , plastknekker, verktøy<br><br>Åpningstidspunkt: 2016<br>Type: Del av en offentlig institusjon<br><br>Nettside: http:\/\/vitensor.no\/<br>Facebook: https:\/\/www.facebook.com\/vitensenteretsorlandet",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.773259,
+          58.459884,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Makerspace på Vitenfabrikken",
+        "description": "Vitenfabrikken, Jærmuseet<br><br>Besøksadresse: Storgata 28, 4307 Sandnes<br>Kontaktperson: Hanne Madsen, tlf. 41474335, epost: hm@jaermuseet.no<br><br>Utstyr: 3d-printer, laserkutter, elektronikk-verksted, symaskiner\/broderingsmaskiner<br><br>Åpningstidspunkt: 2016<br>Åpningstider: Åpent noen timer i uka<br>Type: Del av en offentlig institusjon<br>Antall medlemmer\/brukere: 10.000<br>Antall kvadratmeter: 50<br><br>Nettside: http:\/\/www.jaermuseet.no\/vitenfabrikken\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.731259,
+          58.851261,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Volum Atelierfellesskap",
+        "description": "Besøksadresse: Sinsenveien 4, 0572 Oslo<br>Kontaktperson: Camilla Luihn, camilla.luihn@gmail.com<br><br>Utstyr: 3d-printer, Laserkutter, CNC-fresemaskiner, Maskiner for bearbeidelse av tre<br><br>Åpningstidspunkt: 2016",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.779166700000019,
+          59.9288985,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SKAP Kreativ Folkehøyskole",
+        "description": "www.skapmandal.no",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453330300000062,
+          58.0276808,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Skaperloftet på Kultursenteret ISAK",
+        "description": "Kultursenteret ISAK er Trondheim kommunes kultursenter for ungdom som vil utøve, produsere eller oppleve kultur. Her finner du lokaler, kompetanse, utstyr, samarbeidspartnere og kan få den hjelpen du trenger for å komme i mål med de utroligste ideer.<br><br>Skaperloftet er verksted og makerspace hvor du kan låne utstyr og få hjelp til å utfolde oppfinneren, kunstneren eller designeren i deg. Jonas og Kristina er på plass mandager og tirsdager fra kl 15 og står til disposisjon hvis du trenger hjelp eller har lyst til å utveksle gode ideer med ekstremt hyggelige folk.<br><br>En makerspace er en arena som skal legge til rette for og stimulere skaperglede og innovasjon i skjæringspunktet mellom kunst, teknologi og vitenskap. På Skaperloftet kan du egentlig lage det du vil.<br>Velkommen!<br><br>Nettside: http:\/\/isak.no\/nyheter\/velkommen-til-skaperloftet\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.39086020000002,
+          63.4330133,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jæren Folkehøgskule",
+        "description": "Jæren Folkehøgskule\tScience and Innovation<br><br>Besøksadresse: \"Søren Øvretveits veg 9, 4352 Kleppe<br>Kontaktperson: Jani Christoffer Nystrøm, tlf. 45493612, jani@jarenfhs.no<br><br>Utstyr: 3d-printer, Elektronikk-verksted, PC med CAD<br>Åpningstider: 24\/7<br>Type: Folkehøyskole<br><br>Nettside: http:\/\/www.jarenfhs.no\/linjer\/teknologi\/<br><br>Facebook: <br>https:\/\/www.facebook.com\/Jarenfolkehogskule",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.625670899999932,
+          58.7741833,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Makeriet, Høgskolen i Oslo og Akershus",
+        "description": "Makeriet, Høgskolen i Oslo og Akershus<br>Besøksadresse: Pilestredet 35, rom PH 558<br>Kontaktperson: Evin Güler, 41512247, evin.guler@hioa.no<br><br>Utstyr: 3d-printer, CNC-fresemaskiner, Elektronikk-verksted, Symaskiner\/broderingsmaskiner, Mikroskop, sveising<br>Åpningstider: 8-22.<br>Type: Del av en offentlig institusjon, Høyskole<br>Antall kvadratmeter: 80<br><br>Nettside: http:\/\/mekke.makeri.no\/<br>Facebook: https:\/\/www.facebook.com\/groups\/HiOAmakerspace\/",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.735561800000028,
+          59.91957,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kongsberg Innovation Center",
+        "description": "Åpnet 14.10.16. Mer info kommer.",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.644489300000032,
+          59.6573827,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Makerspace WOACT",
+        "description": "Westerdals Oslo School of Arts, Communication and Technology (Westerdals Oslo ACT)<br><br>Makerspace WOACT er kun åpen for studenter og ansatte ved høyskolen, men vi ønsker å kunne tilby workshops og eventer med eksterne og for eksterne.<br><br>Besøksadresse: Christian Krohgs gate 32, 0186 Oslo<br>Kontaktperson: Jannicke Johansen, tlf. 95880297, epost: jannicke@westerdals.no<br><br>Utstyr: 3d-printer, Elektronikk-verksted, Symaskiner\/broderingsmaskiner, stanse-verksted<br><br>Type: privat høyskole for studentene som går der<br>Åpningstidspunkt: Tilgjenglig når brukere ønsker det<br>Antall brukere: ca.100 til 200<br>Størrelse: 40 kvm<br><br>Nettside: https:\/\/www.westerdals.no\/om-hoyskolen\/<br>Facebook: fb.me\/makerspaceWOACT",
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": -1,
+        "extrude": -1,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7595532,
+          59.9160178,
+          0.0
+        ]
+      }
+    }
+  ]
+}
