@@ -21,18 +21,20 @@ import {
 
 export default class Row extends Component {
 
+
     componentWillMount() {
         this.renderBackface = this.renderBackface.bind(this);
         this.renderInnerBackFace = this.renderInnerBackFace.bind(this);
     }
 
+    // renders closing card sceen
     renderBlankFace() {
         return (
             <View
                 style={{
-          backgroundColor: '#D6EFFF',
-          flex: 1,
-        }}
+                  backgroundColor: '#ff6058',
+                  flex: 1,
+                }}
             />
         );
     }
@@ -46,7 +48,7 @@ export default class Row extends Component {
                     renderFrontface={this.renderBlankFace}
                     renderBackface={this.renderInnerBackFace}
                 >
-                    <AdditionalInfoCard onPress={onPress}/>
+                    <AdditionalInfoCard data={this.props.data} onPress={onPress}/>
                 </FoldView>
 
             </View>
@@ -58,7 +60,7 @@ export default class Row extends Component {
         return (
             <View
                 style={{
-              backgroundColor: '#fff',
+              backgroundColor: '#f6f6f6',
               flex: 1,
               borderTopWidth: StyleSheet.hairlineWidth,
               borderTopColor: '#BDC2C9',
@@ -68,11 +70,11 @@ export default class Row extends Component {
             >
                 <View
                     style={{
-            backgroundColor: '#FFBD18',
-            flex: 1,
-            margin: 14,
-            borderRadius: 2,
-          }}
+                    backgroundColor: '#ff6058',
+                    flex: 1,
+                    margin: 14,
+                    borderRadius: 2,
+                  }}
                 >
                     <TouchableHighlight
                         style={{
@@ -83,7 +85,7 @@ export default class Row extends Component {
                         onPress={onPress}
                     >
                         <Text>
-                            PRESS ME
+                            Lukke
                         </Text>
                     </TouchableHighlight>
 
@@ -93,62 +95,36 @@ export default class Row extends Component {
     }
 
     render() {
+        const {description, Kontaktperson, Utstyr, Åpningstider, medlemmer, Nettside, Facebook} = this.props.data;
         const onPress = this.props.onPress;
 
         return (
             <View
                 style={{
-          flex: 1,
-          backgroundColor: '#fff',
-          flexDirection: 'column',
-        }}
+                  flex: 1,
+                  backgroundColor: '#f6f6f6',
+                  flexDirection: 'column',
+                }}
             >
-
                 <View style={{ flex: 1 }}>
 
                     <View
                         style={{
-              flex: 1,
-              paddingBottom: 10,
-              padding: 16,
-            }}
+                          flex: 1,
+                          paddingBottom: 10,
+                          padding: 10,
+                        }}
                     >
+                        <Text>{description}</Text>
 
-                        <ThinGrayLine width={120}/>
-
-                        <View
-                            style={{
-                marginTop: 10,
-                flexDirection: 'row',
-              }}
-                        >
-
-                            <TouchableHighlight
-                                onPress={onPress}
-                            >
-                                <View
-                                    style={{
-                    width: 40,
-                    height: 40,
-                    marginRight: 10,
-                    backgroundColor: '#BDC2C9',
-                  }}
-                                />
-                            </TouchableHighlight>
-
-                            <View
-                                style={{
-                  flex: 1,
-                  flexDirection: 'column',
-                }}
-                            >
-                                <ThickDarkGrayLine width={200}/>
-                                <ThinGrayLine width={120}/>
-                            </View>
-
+                        <View>
+                           <Text style={{fontWeight: 'bold'}}> Kontaktperson:</Text>
+                            <Text>{Kontaktperson}</Text>
                         </View>
 
-                    </View>
+                     </View>
+
+                </View>
 
                     <View style={{ flex: 1 }}>
 
@@ -156,14 +132,13 @@ export default class Row extends Component {
                             renderFrontface={this.renderBlankFace}
                             renderBackface={this.renderBackface}
                         >
-                            <ProfileDetailCard onPress={onPress}/>
+                            <ProfileDetailCard data={this.props.data} onPress={onPress}/>
                         </FoldView>
 
                     </View>
 
                 </View>
 
-            </View>
         );
     }
 }

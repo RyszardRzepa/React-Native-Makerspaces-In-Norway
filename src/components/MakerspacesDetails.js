@@ -15,11 +15,10 @@ import {
     Image
 
 } from 'react-native';
-
+import {Actions} from 'react-native-router-flux';
 
 import Card from './Card';
 import CardSection from './CardSection';
-import MapView from './MakerspaceMap';
 import ExampleList from '../ExampleList';
 
 const {width, height} = Dimensions.get('window');
@@ -27,20 +26,8 @@ const {width, height} = Dimensions.get('window');
 class example extends Component {
 
     render() {
-
-        const {mainImg, Name, logo, description, Kontaktperson, Utstyr, Åpningstider, kvadratmeter, epostadresse, Nettside, Facebook} = this.props.makerspaces;
-
-        const HEADER = (
-            <View style={styles.header}>
-                <Text style={styles.headerText}>
-                    {Name}
-                </Text>
-                <View style={[styles.overlay]}/>
-            </View>
-        );
-
         return (
-<ExampleList />
+            <ExampleList coordinates={this.props.coordinates} data={this.props.makerspaceDetail}/>
         );
     }
 }

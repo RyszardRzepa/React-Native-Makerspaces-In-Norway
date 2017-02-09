@@ -9,7 +9,6 @@ class AlbumList extends Component {
     componentWillMount() {
 
         this.setState({ makerspaces: Makerspaces.features });
-        console.log(Makerspaces)
 
     }
 

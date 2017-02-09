@@ -8,9 +8,11 @@ import CardSection from './CardSection';
 class AlbumDetail extends Component {
 
     onRowPress() {
-        Actions.details({ makerspaces: this.props.makerspace.properties });
+        Actions.details({
+            makerspaceDetail: this.props.makerspace.properties,
+            coordinates: this.props.makerspace.geometry.coordinates
+        });
     }
-
 
     render() {
         const {Name, description, mainImg, logo} = this.props.makerspace.properties;
