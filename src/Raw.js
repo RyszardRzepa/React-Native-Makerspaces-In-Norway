@@ -9,9 +9,9 @@ import {
 
 import FoldView from 'react-native-foldview';
 
-import InfoCard from './components/InfoCard';
-import PhotoCard from './components/PhotoCard';
-import ProfileCard from './components/ProfileCard';
+import InfoCard from './components/foldingDetails/InfoCard';
+import PhotoCard from './components/foldingDetails/PhotoCard';
+import ProfileCard from './components/foldingDetails/ProfileCard';
 
 export default class Row extends Component {
 
@@ -29,13 +29,19 @@ export default class Row extends Component {
         this.handleAnimationStart = this.handleAnimationStart.bind(this);
         this.renderFrontface = this.renderFrontface.bind(this);
         this.renderBackface = this.renderBackface.bind(this);
+
+        setTimeout(() => {
+            this.flip();
+        }, 300)
     }
+
 
     flip() {
         this.setState({
             expanded: !this.state.expanded,
         });
     }
+
 
     handleAnimationStart(duration, height) {
         const isExpanding = this.state.expanded;
@@ -57,13 +63,13 @@ export default class Row extends Component {
 
     renderFrontface() {
         return (
-            <InfoCard onPress={this.flip} />
+            <InfoCard data={this.props.data} onPress={this.flip} />
         );
     }
 
     renderBackface() {
         return (
-            <ProfileCard onPress={this.flip} />
+            <ProfileCard data={this.props.data} onPress={this.flip} />
         );
     }
 
@@ -87,9 +93,8 @@ export default class Row extends Component {
                     renderBackface={this.renderBackface}
                     renderFrontface={this.renderFrontface}
                 >
-                    <PhotoCard onPress={this.flip} />
+                    <PhotoCard coordinates={this.props.coordinates} data={this.props.data} onPress={this.flip} />
                 </FoldView>
-
             </View>
         );
     }
